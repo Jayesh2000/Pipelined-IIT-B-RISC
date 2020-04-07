@@ -1,0 +1,1069 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/simulation/modelsim
+Ealu1
+Z1 w1572884164
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl
+Z8 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl
+l0
+L5
+VcRYhdHQ_@blcM]W^`h=A23
+!s100 h>Rf6LzD?^HZdKHUaebE;0
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1574843282
+!i10b 1
+Z11 !s108 1574843282.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl|
+Z13 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 alu1 0 22 cRYhdHQ_@blcM]W^`h=A23
+l22
+L13
+VNEXRJ?ZQV19YWX@0`9V[g2
+!s100 fa]ReRUMOW=h54gOS7b=z2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu2
+Z16 w1574608178
+R2
+R3
+R4
+R5
+R6
+R0
+Z17 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd
+Z18 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd
+l0
+L5
+VWDFYX<B3A^eG>NmR^1@ma1
+!s100 [lJUjdeB8SaoT=KDRLLzN3
+R9
+31
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd|
+Z20 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 alu2 0 22 WDFYX<B3A^eG>NmR^1@ma1
+l35
+L18
+VN=>j0E_@OcoF8adhS>P9h2
+!s100 UDV6gY?O=eL=W7>LF4H:71
+R9
+31
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Ealu3
+Z21 w1572604094
+R2
+R3
+R4
+R5
+R6
+R0
+Z22 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd
+Z23 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd
+l0
+L5
+V96>0[3hdU@l<A_K<jm<@70
+!s100 R>Jb^1jb7=OL722=f7B[Q1
+R9
+31
+R10
+!i10b 1
+R11
+Z24 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd|
+Z25 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 alu3 0 22 96>0[3hdU@l<A_K<jm<@70
+l20
+L12
+V4hRGfLf=m8OgIYV@FR1g30
+!s100 B7ZLm?iPfU@C=V5g1`DgA3
+R9
+31
+R10
+!i10b 1
+R11
+R24
+R25
+!i113 1
+R14
+R15
+Ealu4
+Z26 w1572884190
+R2
+R3
+R4
+R5
+R6
+R0
+Z27 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl
+Z28 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl
+l0
+L5
+VUmFXa3e58@<W:AzaoQH621
+!s100 [eJ`eFSYd9VSh9kGZ6Co<2
+R9
+31
+Z29 !s110 1574843283
+!i10b 1
+Z30 !s108 1574843283.000000
+Z31 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl|
+Z32 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 alu4 0 22 UmFXa3e58@<W:AzaoQH621
+l20
+L12
+VWK4afc;T272K@R3FjTJ2A3
+!s100 lk07TDA8l?z]<hm8aZ5>N0
+R9
+31
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R14
+R15
+Edmemory
+Z33 w1574777109
+Z34 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R2
+R5
+R6
+R0
+Z35 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl
+Z36 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl
+l0
+L13
+VI0SG[6baSGI5i0^@mOaLM3
+!s100 A9If:KL3DNBhfmRH8Yc?H3
+R9
+31
+R10
+!i10b 1
+R11
+Z37 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl|
+Z38 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 7 dmemory 0 22 I0SG[6baSGI5i0^@mOaLM3
+l25
+L18
+VVeFAb1`Eb_9QZD3XBSe7i0
+!s100 Cj9CkGhR_:WNG?0>CR?J22
+R9
+31
+R10
+!i10b 1
+R11
+R37
+R38
+!i113 1
+R14
+R15
+Edut
+Z39 w1574840837
+R5
+R6
+R0
+Z40 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl
+Z41 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl
+l0
+L7
+V`iGTgdllMNoIRo0nP8USN0
+!s100 FS>Pifn22Hd3jjDWdeJWC0
+R9
+31
+R10
+!i10b 1
+R11
+Z42 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl|
+Z43 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl|
+!i113 1
+R14
+R15
+Adutwrap
+R5
+R6
+DEx4 work 3 dut 0 22 `iGTgdllMNoIRo0nP8USN0
+l19
+L12
+V6FId<nfD_W9`T^Knkl9h51
+!s100 fmQm2RL<`RzPQ?lKRB`?g2
+R9
+31
+R10
+!i10b 1
+R11
+R42
+R43
+!i113 1
+R14
+R15
+Eexma
+Z44 w1574606890
+R34
+R3
+R2
+R5
+R6
+R0
+Z45 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl
+Z46 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl
+l0
+L14
+V:2=z4aW>M@IoGL@mNHO721
+!s100 4U]^_9QVMj:d?9CdgCQE?0
+R9
+31
+R29
+!i10b 1
+R30
+Z47 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl|
+Z48 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 4 exma 0 22 :2=z4aW>M@IoGL@mNHO721
+l39
+L37
+V=5Xj4iX<@B6GcL6RCdCIL1
+!s100 90bol73GbfP@m137]4AdR1
+R9
+31
+R29
+!i10b 1
+R30
+R47
+R48
+!i113 1
+R14
+R15
+Efa16bit
+Z49 w1557105318
+R5
+R6
+R0
+Z50 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd
+Z51 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd
+l0
+L4
+Vh_o4J^^[b^n[AhBTYCb:50
+!s100 A9V[Pfj;X<04mD0@^k8;d3
+R9
+31
+R10
+!i10b 1
+R11
+Z52 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd|
+Z53 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd|
+!i113 1
+R14
+R15
+Afa16bit_beh
+R5
+R6
+DEx4 work 7 fa16bit 0 22 h_o4J^^[b^n[AhBTYCb:50
+l21
+L11
+VT<8R3@@`bW]SDVWmiOY451
+!s100 YnNb]E<o=X@3JJ831DF=g3
+R9
+31
+R10
+!i10b 1
+R11
+R52
+R53
+!i113 1
+R14
+R15
+Efa1bit
+Z54 w1556989186
+R5
+R6
+R0
+Z55 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd
+Z56 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd
+l0
+L7
+VjTaW9g:PkUd9oCmaOd8cC3
+!s100 2:4lYHMB9V2lTBoY>[@?>0
+R9
+31
+R10
+!i10b 1
+R11
+Z57 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd|
+Z58 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd|
+!i113 1
+R14
+R15
+Afa1bit_beh
+R5
+R6
+DEx4 work 6 fa1bit 0 22 jTaW9g:PkUd9oCmaOd8cC3
+l13
+L12
+V8_b3HDUOd_NAjDF4kb[jj0
+!s100 <P:`W0l73HBPCh8SlfmQZ1
+R9
+31
+R10
+!i10b 1
+R11
+R57
+R58
+!i113 1
+R14
+R15
+Efa8bit
+R54
+R5
+R6
+R0
+Z59 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd
+Z60 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd
+l0
+L7
+VRKfGloZPU`8m4N?U0>m8m2
+!s100 6cRVQR88coJB@?S7>W?Kd1
+R9
+31
+R10
+!i10b 1
+R11
+Z61 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd|
+Z62 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd|
+!i113 1
+R14
+R15
+Afa8bit_beh
+R5
+R6
+DEx4 work 6 fa8bit 0 22 RKfGloZPU`8m4N?U0>m8m2
+l23
+L14
+V?VMijJm[n[4ck]:gE=DXP0
+!s100 Y81oJ_c3n>lI4KDkX>fD=3
+R9
+31
+R10
+!i10b 1
+R11
+R61
+R62
+!i113 1
+R14
+R15
+Eidrr
+Z63 w1574606862
+R34
+R3
+R2
+R5
+R6
+R0
+Z64 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl
+Z65 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl
+l0
+L14
+Vf=BZTh`0m^PD6D[n`kQN_0
+!s100 S<eT9nPbYa_m72dmV3QI`3
+R9
+31
+R29
+!i10b 1
+R30
+Z66 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl|
+Z67 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 4 idrr 0 22 f=BZTh`0m^PD6D[n`kQN_0
+l29
+L27
+Ve4H::mDSNnXF>]N>V_1XG3
+!s100 c^DVg=k?o4M3GBPT`[SeH2
+R9
+31
+R29
+!i10b 1
+R30
+R66
+R67
+!i113 1
+R14
+R15
+Eifid
+Z68 w1574835902
+R34
+R3
+R2
+R5
+R6
+R0
+Z69 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl
+Z70 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl
+l0
+L13
+VG@h`RLWfZ;XXHinOgC:zH0
+!s100 :62lXVi9?4@LJQhQRC<Bl2
+R9
+31
+R29
+!i10b 1
+R30
+Z71 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl|
+Z72 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 4 ifid 0 22 G@h`RLWfZ;XXHinOgC:zH0
+l22
+L20
+VYF]fe1aBUiMSUi<MnIWKZ0
+!s100 8[QW76?FiC9=fzl_N=]K=1
+R9
+31
+R29
+!i10b 1
+R30
+R71
+R72
+!i113 1
+R14
+R15
+Eimemory
+Z73 w1574785418
+R34
+R3
+R2
+R5
+R6
+R0
+Z74 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl
+Z75 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl
+l0
+L13
+VR?eOFQhTGnHWzPdZ1gocQ2
+!s100 DM>00X7W_H<QzTK2m^Rzf3
+R9
+31
+R10
+!i10b 1
+R11
+Z76 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl|
+Z77 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 7 imemory 0 22 R?eOFQhTGnHWzPdZ1gocQ2
+l30
+L19
+V8T:W`J2fIKW@=YR2YHAOg2
+!s100 73f1gZ<`nP_FM1=nMUbQ_2
+R9
+31
+R10
+!i10b 1
+R11
+R76
+R77
+!i113 1
+R14
+R15
+Elmsmblock
+Z78 w1574698241
+R34
+R2
+R3
+R4
+R5
+R6
+R0
+Z79 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl
+Z80 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl
+l0
+L9
+V8^NfT0ggd33>hf9WC?]<21
+!s100 ;]GfbBOV^jf_S;O4?f`8V1
+R9
+31
+R10
+!i10b 1
+R11
+Z81 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl|
+Z82 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl|
+!i113 1
+R14
+R15
+Abehavioral
+R34
+R2
+R3
+R4
+R5
+R6
+DEx4 work 9 lmsmblock 0 22 8^NfT0ggd33>hf9WC?]<21
+l29
+L18
+V8XV2n6CS=?3T=[Db8FfOh3
+!s100 CVn[TEDgY8GcV_P==XD5[1
+R9
+31
+R10
+!i10b 1
+R11
+R81
+R82
+!i113 1
+R14
+R15
+Emain7
+Z83 w1574840870
+R34
+R3
+R2
+R5
+R6
+R0
+Z84 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl
+Z85 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl
+l0
+L10
+V_WEL]kk35EaZgQU;1el4N1
+!s100 DlflGhKoS7OA0_oHhnQdZ3
+R9
+31
+R10
+!i10b 1
+R11
+Z86 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl|
+Z87 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl|
+!i113 1
+R14
+R15
+Abehave
+R34
+R3
+R2
+R5
+R6
+DEx4 work 5 main7 0 22 _WEL]kk35EaZgQU;1el4N1
+l305
+L17
+V7=_nE<[EnoT47Y]7gIWoT0
+!s100 IMXaGiGKGAE5`7?5bKDXn0
+R9
+31
+R10
+!i10b 1
+R11
+R86
+R87
+!i113 1
+R14
+R15
+Emawb
+Z88 w1574606904
+R34
+R3
+R2
+R5
+R6
+R0
+Z89 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl
+Z90 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl
+l0
+L14
+V3zIWjoSCE0G6N1XXK;6S<1
+!s100 bc>gkjZ42]>5_PDI]?U;20
+R9
+31
+R29
+!i10b 1
+R30
+Z91 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl|
+Z92 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 4 mawb 0 22 3zIWjoSCE0G6N1XXK;6S<1
+l32
+L30
+V78gZV3<1L@]Zn92X7W5310
+!s100 lEUE2faiTD:gI@`NSElE?1
+R9
+31
+R29
+!i10b 1
+R30
+R91
+R92
+!i113 1
+R14
+R15
+Emux16bit2to1
+Z93 w1573116716
+R5
+R6
+R0
+Z94 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd
+Z95 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd
+l0
+L3
+VaDiQ^5UYCamP??m][01ML2
+!s100 ><Hdc=N=9YPMWn>V4Zd4D3
+R9
+31
+R10
+!i10b 1
+R11
+Z96 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd|
+Z97 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 12 mux16bit2to1 0 22 aDiQ^5UYCamP??m][01ML2
+l10
+L9
+Vd=dDGCzIdz2J=_F>4E=fc0
+!s100 VTnY7g:?JD_L2^h_k9Vl21
+R9
+31
+R10
+!i10b 1
+R11
+R96
+R97
+!i113 1
+R14
+R15
+Emux16bit4to1
+Z98 w1573133480
+R5
+R6
+R0
+Z99 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd
+Z100 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd
+l0
+L3
+VJa2MOU>kL:Vj@nm`KBQSh3
+!s100 m2>25YD1k1:ZJ`nN8:`F]2
+R9
+31
+R10
+!i10b 1
+R11
+Z101 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd|
+Z102 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 12 mux16bit4to1 0 22 Ja2MOU>kL:Vj@nm`KBQSh3
+l16
+L9
+VU]E@j1j1P3Ozb8SH=G:VJ1
+!s100 ]aSARBf4]B>B_1EZNc3[J3
+R9
+31
+R10
+!i10b 1
+R11
+R101
+R102
+!i113 1
+R14
+R15
+Emux3bit2to1
+Z103 w1573116714
+R5
+R6
+R0
+Z104 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl
+Z105 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl
+l0
+L3
+VRNBW0TT6697f@]CKD[M<72
+!s100 S9=A_0lnPn0F4Cel_hZjc3
+R9
+31
+R10
+!i10b 1
+R11
+Z106 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl|
+Z107 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 11 mux3bit2to1 0 22 RNBW0TT6697f@]CKD[M<72
+l10
+L9
+VY9O5100Y97XziF=og8FM]3
+!s100 ^9<z>H6]OJ`PXHamVmz<d2
+R9
+31
+R10
+!i10b 1
+R11
+R106
+R107
+!i113 1
+R14
+R15
+Emux3bit4to1
+Z108 w1574573014
+R5
+R6
+R0
+Z109 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl
+Z110 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl
+l0
+L3
+VAH?SC@nVek50Y6jR]Re6I1
+!s100 b`c8]Q08FQ1DP4Fi=B>0X3
+R9
+31
+R10
+!i10b 1
+R11
+Z111 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl|
+Z112 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 11 mux3bit4to1 0 22 AH?SC@nVek50Y6jR]Re6I1
+l17
+L9
+V0MQPk9TMkF:IB_aBN7?Y]0
+!s100 <LiEkUh^b5beY@:fG>SlI2
+R9
+31
+R10
+!i10b 1
+R11
+R111
+R112
+!i113 1
+R14
+R15
+Emux8bit2to1
+Z113 w1573116450
+R5
+R6
+R0
+Z114 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl
+Z115 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl
+l0
+L3
+V@kFLZS3Dk_QATGj:z0gzg0
+!s100 DYMaRf9;m8Zz2VVMTIoJ13
+R9
+31
+R29
+!i10b 1
+R30
+Z116 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl|
+Z117 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 11 mux8bit2to1 0 22 @kFLZS3Dk_QATGj:z0gzg0
+l10
+L9
+VEmW1N@>LS[dE<K6NCARD=3
+!s100 aCTY=QNmWG@>a1zR>CmXD3
+R9
+31
+R29
+!i10b 1
+R30
+R116
+R117
+!i113 1
+R14
+R15
+Eopcodecontrol
+Z118 w1574757679
+R5
+R6
+R0
+Z119 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl
+Z120 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl
+l0
+L3
+VISC<G<E?dfkdkO@EQf6f?2
+!s100 I@DWgW;9@mnj8HVLJ9bSa0
+R9
+31
+R29
+!i10b 1
+R30
+Z121 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl|
+Z122 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl|
+!i113 1
+R14
+R15
+Aequations
+R5
+R6
+DEx4 work 13 opcodecontrol 0 22 ISC<G<E?dfkdkO@EQf6f?2
+l9
+L7
+V3^^anRDJaQF0BeWS6zW5N0
+!s100 e[j`LTLb<T=BD<gn]QR:61
+R9
+31
+R29
+!i10b 1
+R30
+R121
+R122
+!i113 1
+R14
+R15
+Epriorityencoder
+Z123 w1574622648
+R2
+R5
+R6
+R0
+Z124 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl
+Z125 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl
+l0
+L5
+VQdN9]1ZX_jX:>5GeCGWlh2
+!s100 b6jcZm<U<O:fj`cR1YGQC1
+R9
+31
+R29
+!i10b 1
+R11
+Z126 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl|
+Z127 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl|
+!i113 1
+R14
+R15
+Abehavioural
+R2
+R5
+R6
+DEx4 work 15 priorityencoder 0 22 QdN9]1ZX_jX:>5GeCGWlh2
+l15
+L14
+VMRADT1G3em9398`];7f?U0
+!s100 M2K?O5NCi2CAHBQ>Ie86U3
+R9
+31
+R29
+!i10b 1
+R11
+R126
+R127
+!i113 1
+R14
+R15
+Eregister_file_vhdl
+Z128 w1574776267
+R2
+R5
+R6
+R0
+Z129 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl
+Z130 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl
+l0
+L7
+V;=kL24PKaG@U^eGlS2kF[1
+!s100 1kN5NRQIhO?n<AfUN9;no0
+R9
+31
+R10
+!i10b 1
+R11
+Z131 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl|
+Z132 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 18 register_file_vhdl 0 22 ;=kL24PKaG@U^eGlS2kF[1
+l25
+L22
+VBST7NU?46@=ajC4D4dz4B2
+!s100 mnzEUL54o?X`aYYJ8nK5A2
+R9
+31
+R10
+!i10b 1
+R11
+R131
+R132
+!i113 1
+R14
+R15
+Errex
+Z133 w1574606876
+R34
+R3
+R2
+R5
+R6
+R0
+Z134 8/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl
+Z135 F/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl
+l0
+L14
+ViH@EcPLj@inX3WFA]d9=L0
+!s100 ?bDDP8=nf;n]5?=D97;=03
+R9
+31
+R29
+!i10b 1
+R30
+Z136 !s90 -reportprogress|300|-93|-work|work|/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl|
+Z137 !s107 /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl|
+!i113 1
+R14
+R15
+Aform
+R34
+R3
+R2
+R5
+R6
+DEx4 work 4 rrex 0 22 iH@EcPLj@inX3WFA]d9=L0
+l34
+L32
+Vj3K_8dDYjWTzX2kV=mT`03
+!s100 Ub]`2PDodP8D3o8UgeN^j1
+R9
+31
+R29
+!i10b 1
+R30
+R136
+R137
+!i113 1
+R14
+R15

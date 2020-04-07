@@ -1,0 +1,14 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity mux3bit4to1 is
+   port(A,B,C,D: in std_logic_vector(2 downto 0); S0, S1: in std_logic; Cout: out std_logic_vector(2 downto 0));
+end entity mux3bit4to1;
+
+architecture Equations of mux3bit4to1 is
+component mux3bit4to1 is
+   port(A,B: in std_logic_vector(2 downto 0); S: in std_logic; Cout: out std_logic_vector(2 downto 0));
+end component;	
+begin
+mux1: mux3bit4to1 port map(A=>A, B=>B, S=>S0 and (not S1), Cout=>Cout);
+mux2: mux3bit4to1 port map(A=>C, B=>D, S=>S0 and S1, Cout=>Cout);
+end Equations;

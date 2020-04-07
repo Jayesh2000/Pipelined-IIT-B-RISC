@@ -1,0 +1,11 @@
+
+State Machine - |main7|fsm_state
+Name fsm_state.s7 fsm_state.s6 fsm_state.s5 fsm_state.s4 fsm_state.s3 fsm_state.s2 fsm_state.s1 fsm_state.s0 
+fsm_state.s0 0 0 0 0 0 0 0 0 
+fsm_state.s1 0 0 0 0 0 0 1 1 
+fsm_state.s2 0 0 0 0 0 1 0 1 
+fsm_state.s3 0 0 0 0 1 0 0 1 
+fsm_state.s4 0 0 0 1 0 0 0 1 
+fsm_state.s5 0 0 1 0 0 0 0 1 
+fsm_state.s6 0 1 0 0 0 0 0 1 
+fsm_state.s7 1 0 0 0 0 0 0 1 

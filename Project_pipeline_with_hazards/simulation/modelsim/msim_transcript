@@ -1,0 +1,332 @@
+# ERROR: No extended dataflow license exists
+# do DUT_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying /home/gaurav/Desktop/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/DUT.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity DUT
+# -- Compiling architecture DutWrap of DUT
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/main7.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity main7
+# -- Compiling architecture behave of main7
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/lmsmblock.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package NUMERIC_STD
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity lmsmblock
+# -- Compiling architecture Behavioral of lmsmblock
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/regfilewithr7.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity register_file_VHDL
+# -- Compiling architecture Behavioral of register_file_VHDL
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa16bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fa16bit
+# -- Compiling architecture fa16bit_beh of fa16bit
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa8bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fa8bit
+# -- Compiling architecture fa8bit_beh of fa8bit
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/fa1bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fa1bit
+# -- Compiling architecture fa1bit_beh of fa1bit
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu1.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu1
+# -- Compiling architecture Behavioral of alu1
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/imemory.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity imemory
+# -- Compiling architecture Form of imemory
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu3.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu3
+# -- Compiling architecture Behavioral of alu3
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu2.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu2
+# -- Compiling architecture Behavioral of alu2
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/dmemory.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity dmemory
+# -- Compiling architecture Form of dmemory
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit2to1.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux3bit2to1
+# -- Compiling architecture Equations of mux3bit2to1
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux3bit4to1.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux3bit4to1
+# -- Compiling architecture Equations of mux3bit4to1
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit2to1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16bit2to1
+# -- Compiling architecture Equations of mux16bit2to1
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux16bit4to1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16bit4to1
+# -- Compiling architecture Equations of mux16bit4to1
+# End time: 13:58:02 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:02 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/priorityencoder.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity priorityencoder
+# -- Compiling architecture behavioural of priorityencoder
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IFID.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity IFID
+# -- Compiling architecture Form of IFID
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/IDRR.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity IDRR
+# -- Compiling architecture Form of IDRR
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/opcodecontrol.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity opcodecontrol
+# -- Compiling architecture Equations of opcodecontrol
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/RREX.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity RREX
+# -- Compiling architecture Form of RREX
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/EXMA.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity EXMA
+# -- Compiling architecture Form of EXMA
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/MAWB.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity MAWB
+# -- Compiling architecture Form of MAWB
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/mux8bit2to1.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux8bit2to1
+# -- Compiling architecture Equations of mux8bit2to1
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {/home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:58:03 on Nov 27,2019
+# vcom -reportprogress 300 -93 -work work /home/gaurav/Desktop/Sem5/EE309/Project1/Project_PIPeline_25_11/Project_pipeline_with_hazards (2)/alu4.vhdl 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity alu4
+# -- Compiling architecture Behavioral of alu4
+# End time: 13:58:03 on Nov 27,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# 
+# stdin: <EOF>
